@@ -1,5 +1,7 @@
 # Probabilidades y Estadística (C)
-**Ciencias de la Computación - UBA**
+
+Carrera: Ciencias de la Computación - UBA\
+Cursada: 2do cuatrimestre 2021 (virtual)
 
 ## Índice
 
