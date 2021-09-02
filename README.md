@@ -15,6 +15,14 @@ Cursada: 2do cuatrimestre 2021 (virtual)
   - [Práctica 0](Soluciones/Práctica0.ipynb)
   - [Práctica 1](Soluciones/Práctica1.ipynb)
 
+## Ver con nbviewer 
+
+Otra forma de ver el notebook es con [nbviewer](https://nbviewer.jupyter.org/):
+
+https://nbviewer.jupyter.org/github/honi/uba-probabilidad-y-estadistica/
+
+Algunas fórmulas se ven mejores ahí que en GitHub.
+
 ## Ejecutar localmente
 
 Para ejecutar el Jupyter Notebook localmente, seguir estos pasos en Linux o MacOS.
