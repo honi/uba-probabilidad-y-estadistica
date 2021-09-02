@@ -14,6 +14,7 @@ Cursada: 2do cuatrimestre 2021 (virtual)
 - Soluciones
   - [Práctica 0](Soluciones/Práctica0.ipynb)
   - [Práctica 1](Soluciones/Práctica1.ipynb)
+  - [Práctica 2](Soluciones/Práctica2.ipynb)
 
 ## Ver con nbviewer 
 
