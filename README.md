@@ -36,3 +36,5 @@ source venv/bin/activate
 pip install -r requirements.txt
 jupyter-lab
 ```
+
+Además se requiere tener instalado [R](https://cloud.r-project.org/) y el [kernel de R para Jupyter](https://github.com/IRkernel/IRkernel).
