@@ -19,6 +19,8 @@ Cursada: 2do cuatrimestre 2021 (virtual)
   - [Práctica 4](Soluciones/Práctica4.ipynb)
 - Entregas
   - [Entrega 1](Entregas/Entrega1.ipynb)
+- Machetes
+  - [Distribuciones en R](Machetes/DistribucionesEnR.ipynb)
 
 ## Ver con nbviewer
 
