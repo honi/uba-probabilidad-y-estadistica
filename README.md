@@ -20,6 +20,7 @@ Cursada: 2do cuatrimestre 2021 (virtual)
   - [Práctica 3](Soluciones/Práctica3.ipynb)
   - [Práctica 4](Soluciones/Práctica4.ipynb)
   - [Práctica 5](Soluciones/Práctica5.ipynb)
+  - [Práctica 6](Soluciones/Práctica6.ipynb)
 - Entregas
   - [Entrega 1](Entregas/Entrega1.ipynb)
   - [Entrega 2](Entregas/Entrega2.ipynb)
