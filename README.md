@@ -24,6 +24,7 @@ Cursada: 2do cuatrimestre 2021 (virtual)
 - Entregas
   - [Entrega 1](Entregas/Entrega1.ipynb)
   - [Entrega 2](Entregas/Entrega2.ipynb)
+  - [Entrega 3](Entregas/Entrega3.ipynb)
 - Machetes
   - [Distribuciones en R](Machetes/DistribucionesEnR.ipynb)
   - [TCL (Teorema Central del Límite)](Machetes/TCL.ipynb)
