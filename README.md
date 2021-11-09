@@ -5,15 +5,6 @@ Cursada: 2do cuatrimestre 2021 (virtual)
 
 ## Índice
 
-- Enunciados
-  - [Práctica 0](Enunciados/Práctica0.pdf)
-  - [Práctica 1](Enunciados/Práctica1.pdf)
-  - [Práctica 2](Enunciados/Práctica2.pdf)
-  - [Práctica 3](Enunciados/Práctica3.pdf)
-  - [Práctica 4](Enunciados/Práctica4.pdf)
-  - [Práctica 5](Enunciados/Práctica5.pdf)
-  - [Práctica 6](Enunciados/Práctica6.pdf)
-  - [Práctica 7](Enunciados/Práctica7.pdf)
 - Soluciones
   - [Práctica 0](Soluciones/Práctica0.ipynb)
   - [Práctica 1](Soluciones/Práctica1.ipynb)
@@ -30,6 +21,15 @@ Cursada: 2do cuatrimestre 2021 (virtual)
 - Machetes
   - [Distribuciones en R](Machetes/DistribucionesEnR.ipynb)
   - [TCL (Teorema Central del Límite)](Machetes/TCL.ipynb)
+- Enunciados
+  - [Práctica 0](Enunciados/Práctica0.pdf)
+  - [Práctica 1](Enunciados/Práctica1.pdf)
+  - [Práctica 2](Enunciados/Práctica2.pdf)
+  - [Práctica 3](Enunciados/Práctica3.pdf)
+  - [Práctica 4](Enunciados/Práctica4.pdf)
+  - [Práctica 5](Enunciados/Práctica5.pdf)
+  - [Práctica 6](Enunciados/Práctica6.pdf)
+  - [Práctica 7](Enunciados/Práctica7.pdf)
 
 ## Ver con nbviewer
 
