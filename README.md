@@ -53,3 +53,7 @@ jupyter-lab
 ```
 
 Además se requiere tener instalado [R](https://cloud.r-project.org/) y el [kernel de R para Jupyter](https://github.com/IRkernel/IRkernel).
+
+## Contribuir
+
+Si encontrás algún error, se te ocurre una forma mejor de resolver un ejercicio, o cualquier otra cosa que mejore el repositorio te invito a que abras un issue en GitHub o mandes directamente un pull request con los cambios.
