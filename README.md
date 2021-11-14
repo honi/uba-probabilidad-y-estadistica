@@ -22,6 +22,7 @@ Cursada: 2do cuatrimestre 2021 (virtual)
 - Machetes
   - [Distribuciones en R](Machetes/DistribucionesEnR.ipynb)
   - [TCL (Teorema Central del Límite)](Machetes/TCL.ipynb)
+  - [Intervalos de confianza](Machetes/IntervalosDeConfianza.ipynb)
 - Enunciados
   - [Práctica 0](Enunciados/Práctica0.pdf)
   - [Práctica 1](Enunciados/Práctica1.pdf)
