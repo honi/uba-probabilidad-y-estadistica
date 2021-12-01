@@ -3,6 +3,10 @@
 Carrera: Ciencias de la Computación - UBA\
 Cursada: 2do cuatrimestre 2021 (virtual)
 
+## Ver con nbviewer
+
+Se recomienda ver el notebook con [nbviewer](https://nbviewer.jupyter.org/github/honi/uba-probabilidad-y-estadistica/tree/cda843626315a85f616bcda71166e9a476a7e437/) ya que muchas fórmulas se ven rotas en GitHub.
+
 ## Índice
 
 - Soluciones
@@ -37,14 +41,6 @@ Cursada: 2do cuatrimestre 2021 (virtual)
   - [Práctica 5](Enunciados/Práctica5.pdf)
   - [Práctica 6](Enunciados/Práctica6.pdf)
   - [Práctica 7](Enunciados/Práctica7.pdf)
-
-## Ver con nbviewer
-
-Otra forma de ver el notebook es con [nbviewer](https://nbviewer.jupyter.org/):
-
-https://nbviewer.jupyter.org/github/honi/uba-probabilidad-y-estadistica/
-
-Algunas fórmulas se ven mejores ahí que en GitHub.
 
 ## Ejecutar localmente
 
