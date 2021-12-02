@@ -5,7 +5,7 @@ Cursada: 2do cuatrimestre 2021 (virtual)
 
 ## Ver con nbviewer
 
-Se recomienda ver el notebook con [nbviewer](https://nbviewer.jupyter.org/github/honi/uba-probabilidad-y-estadistica/tree/6beab279a254dfd17e34acf7b441d5c07218fa8b/) ya que muchas fórmulas se ven rotas en GitHub.
+Se recomienda ver el notebook con [nbviewer](https://nbviewer.jupyter.org/github/honi/uba-probabilidad-y-estadistica/tree/48baaf88871e659a0df11b511ad6b90476a55350/) ya que muchas fórmulas se ven rotas en GitHub.
 
 ## Índice
 
