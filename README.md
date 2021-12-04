@@ -26,7 +26,8 @@ Se recomienda ver el notebook con [nbviewer](https://nbviewer.jupyter.org/github
   - [Entrega 3](Entregas/Entrega3.ipynb)
   - [Entrega 4](Entregas/Entrega4.ipynb)
 - Final
-  - [Ejercicios de final](Final/Ejercicios.ipynb)
+  - [Ejercicios de final (PDF)](Final/Probabilidad-y-Estadística-Final-Ejercicios.pdf)
+  - [Ejercicios de final (notebook)](Final/Ejercicios.ipynb)
 - Machetes
   - [Distribuciones en R](Machetes/DistribucionesEnR.ipynb)
   - [TCL (Teorema Central del Límite)](Machetes/TCL.ipynb)
